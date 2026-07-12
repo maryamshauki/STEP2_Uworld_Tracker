@@ -23,3 +23,7 @@ Have ideas or found a bug? Open a [Discussion](../../discussions) or an [Issue](
 ## 🖥️ How to use
 
 Open `index.html` directly in any browser, or enable GitHub Pages on this repo for a shareable link.
+
+![Preview](preview.png)
+
+Made by [Maryam Shaukat](https://github.com/maryamshauki)
